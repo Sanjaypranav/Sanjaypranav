@@ -10,7 +10,7 @@
 * Natural Language Processing 
 * Time Series Analysis
 
-
+Internship @Puretalk AI ,NYC
 Internship @Universiti of malaya 2022
 
 ### About Me 
