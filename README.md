@@ -14,8 +14,6 @@ Internship @Puretalk AI ,NYC
 Internship @Universiti of malaya 2022
 
 ### About Me 
-i'm good soul but 
-@Nandhini25S is Dumb 
 I’m a Machine learning enthusiast.
 I help to make/build Machine learning projects.
 When I’m not available, you can find me on twitter.
