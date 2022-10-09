@@ -70,7 +70,7 @@ Internship @Universiti of Malaya 2022
 
 
 
-#### You can also find me on-
+### You can also find me on-
 
 [<img align="left" alt="Sanjaypranav | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Sanjaypranav | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
