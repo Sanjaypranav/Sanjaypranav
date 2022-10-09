@@ -1,27 +1,61 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<h1 align="left">I'm Sanjaypranav 😇 </h1>
-
+<!-- Banner -->
+<h1 align = "center"> Hi,I'm Sanjaypranav</h1>
+<p align = "center"> Love to help people solve there problems</p>
 
 ### Interested in 
-* Machine Learning
-* Deep Learning
+* Machine Learning and Deep Learning
+* NLP (Natural Language Processing)
 * Computer vision
-* Natural Language Processing 
 * Time Series Analysis
 
-Internship @Puretalk AI ,NYC
-Internship @Universiti of malaya 2022
+<!-- work experience  -->
+## Work Experience
+Internship @Puretalk AI ,Miami FL
+Internship @Universiti of Malaya 2022
 
 ### About Me 
-I’m a Machine learning enthusiast.
-I help to make/build Machine learning projects.
-When I’m not available, you can find me on twitter.
-Want to work together? I’d love to hear from you.
+* Master in Artificial intelligence and Machine Learning
+* Python developer
+* A data science Enthusiast
+* Love to solve problems 
+* A person who believes people should share knowledge! and would love to interact with people who have the similar interest. 
+* Also enjoy learning  about new Tech based stuffs!
 
-<h3 align="left">Tech Stacks</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.tableau.com/ target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wXaFE8fdNG8a8rV99yFODnarO_FXROIX7WMxxXsf0QdZhjT0XClGyK8ctZTOQwHzb8M&usqp=CAU" alt="rstudio" width="40" height="40"/> </a></p>
+ <!-- my work  -->
+
+<h2 align="left">Tech Stacks</h2>
+
+## Programming languages:
+<p align="left">
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="30" height="30"/></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="c" width="30" height="30"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/></a> 
+<p>
+
+## Frameworks:
+<p align="left">
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/120px-Scikit_learn_logo_small.svg.png" alt="scikit" width="40" height="30"/></a>
+<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="30" height="30"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="30" height="30"/></a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://i.pinimg.com/474x/8d/b7/dc/8db7dc3b92b9a0018b0600e04cdaab4e--star-logo.jpg" alt="apache.spark" width="30" height="30"/></a>
+<a href="https://pandas.pydata.org/about/" target="_blank"> <img src="https://miro.medium.com/max/1400/0*2MYU_Qoa6xLBFTi6.png" alt="pandas" width="60" height="40"/></a>
+<!-- opencv -->
+<a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/></a>
+</p>
+
+## Databases:
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" alt="mysql" width="40" height="30"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="30"/></a>
+</p>
+
+## Tools:
+<p align="left">
+<a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/></a>
+<a href="https://jupyter.org/try" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/></a>
+<a href="https://pandao.github.io/editor.md/en.html" target="_blank">   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVYPAGR3-iS9hBUNawcXuHPNYJN6sIlHRRytvReT8lq1Z3P5YJWB5BT998b0W0VHttD3k&usqp=CAU" alt="markdown" width="40" height="40"/></a>
 
 
 ### My Hobbies and interests -
@@ -32,6 +66,8 @@ Want to work together? I’d love to hear from you.
 ### I'm listening on Spotify :
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t2peyvrz0j9ereczfp4xbc3y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 #### You can also find me on-
@@ -52,17 +88,17 @@ Want to work together? I’d love to hear from you.
 [Instagram]: https://www.instagram.com/_sanjaypranav_/
 [gmail]: mailto:sanjaypriya@gmail.com 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjaypranav&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaypranav" /> </p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjaypranav&show_icons=true&locale=en&layout=compact" alt="Sanjaypranav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjaypranav&show_icons=true&locale=en" alt="Sanjaypranav" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaypranav&" alt="Sanjaypranav" /></p>
-
 ### ✍️ Blog Posts : 
 - [Stock Analysis Introduction using API (Alpha vantage)](https://fintechy.blogspot.com/)
+- [RUTH : Natural Lannguage Understanding](https://medium.com/@Sanjaypranav/ruth-a-natural-language-understanding-framework-developed-by-puretalk-ai-5f229aacbf2a)
+----
+
+<!-- github stats -->
+## 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanjaypranav&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaypranav" /> </p>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sanjaypranav&show_icons=true&locale=en" alt="Sanjaypranav" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaypranav&" alt="Sanjaypranav" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjaypranav&show_icons=true&locale=en&layout=compact" alt="Sanjaypranav" /></p>
