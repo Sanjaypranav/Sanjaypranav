@@ -4,6 +4,8 @@
 <h1 align = "center"> Hi,I'm Sanjaypranav</h1>
 <p align = "center"> Love to help people solve there problems</p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanjaypranav&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaypranav" /> </p>
+
 ### Interested in 
 * Machine Learning and Deep Learning
 * NLP (Natural Language Processing)
@@ -95,10 +97,8 @@ Internship @Universiti of Malaya 2022
 
 <!-- github stats -->
 ## 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanjaypranav&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaypranav" /> </p>
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sanjaypranav&show_icons=true&locale=en" alt="Sanjaypranav" />
+
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaypranav&" alt="Sanjaypranav" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjaypranav&show_icons=true&locale=en&layout=compact" alt="Sanjaypranav" /></p>
