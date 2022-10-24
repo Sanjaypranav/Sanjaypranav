@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <h1 align = "center"> Hi,I'm Sanjaypranav</h1>
-<p align = "center"> Love to help people solve there problems</p>
+<p align = "center"> Love to help people solve their problems</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanjaypranav&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaypranav" /> </p>
 
