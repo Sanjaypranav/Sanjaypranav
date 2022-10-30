@@ -15,7 +15,10 @@
 <!-- work experience  -->
 ## Work Experience
 Internship @Puretalk AI ,Miami FL
+
 Internship @Universiti of Malaya 2022
+
+Freelancer in Upworks and Fiverr 
 
 ### About Me 
 * Master in Artificial intelligence and Machine Learning
