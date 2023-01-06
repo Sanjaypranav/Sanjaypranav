@@ -14,7 +14,7 @@
 
 <!-- work experience  -->
 ## Work Experience
-Internship @Puretalk AI ,Miami FL
+NLU, Flask api and GPT-3 chatbot Developer at @Puretalk AI FL, Miami
 
 Internship @Universiti of Malaya 2022
 
