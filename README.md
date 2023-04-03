@@ -70,7 +70,7 @@ Freelancer in Upworks and Fiverr
 
 ### I'm listening on Spotify :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t2peyvrz0j9ereczfp4xbc3y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3173rcdf4bxpwfv6jncckh4mwd2u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3173rcdf4bxpwfv6jncckh4mwd2u&redirect=true)
 
 
 
