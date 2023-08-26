@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanjaypranav&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaypranav" /> </p>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/gbraad](https://bmc.link/sanjaypranav))
+<a href="https://www.buymeacoffee.com/sanjaypranav"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=sanjaypranav&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ### Interested in 
 * Machine Learning and Deep Learning
